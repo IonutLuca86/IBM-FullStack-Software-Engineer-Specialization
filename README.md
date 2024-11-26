@@ -2,5 +2,9 @@ This is a projects folder that include most of the projects done under the IBM F
 Software Engineer Specialization course :
 
 [Conference Event Planner](https://github.com/IonutLuca86/IBM-FullStack-Software-Engineer-Specialization/tree/main/conference_event_planner)
+
 [Content Rating](https://github.com/IonutLuca86/IBM-FullStack-Software-Engineer-Specialization/tree/main/content_rating)
+
 [Custom Hook](https://github.com/IonutLuca86/IBM-FullStack-Software-Engineer-Specialization/tree/main/custom_hook)
+
+[Ecommerce Rtk](https://github.com/IonutLuca86/IBM-FullStack-Software-Engineer-Specialization/tree/main/ecommerce_rtk)
