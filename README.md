@@ -12,3 +12,5 @@ Software Engineer Specialization course :
 [Event Planner](https://github.com/IonutLuca86/IBM-FullStack-Software-Engineer-Specialization/tree/main/event_planner)
 
 [Feedback Form](https://github.com/IonutLuca86/IBM-FullStack-Software-Engineer-Specialization/tree/main/feedback_form)
+
+[Simple Interests Calculator](https://github.com/IonutLuca86/IBM-FullStack-Software-Engineer-Specialization/tree/main/Simple_Interest_Calculator)
