@@ -8,3 +8,5 @@ Software Engineer Specialization course :
 [Custom Hook](https://github.com/IonutLuca86/IBM-FullStack-Software-Engineer-Specialization/tree/main/custom_hook)
 
 [Ecommerce Rtk](https://github.com/IonutLuca86/IBM-FullStack-Software-Engineer-Specialization/tree/main/ecommerce_rtk)
+
+[Event Planner](https://github.com/IonutLuca86/IBM-FullStack-Software-Engineer-Specialization/tree/main/event_planner)
